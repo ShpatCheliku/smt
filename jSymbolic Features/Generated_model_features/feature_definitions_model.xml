@@ -14,27 +14,6 @@
    <comments></comments>
 
    <feature>
-      <name>Basic Pitch Histogram</name>
-      <description>A feature vector consisting of bin magnitudes of the basic pitch histogram described in the jSymbolic manual. Each bin corresponds to one of the 128 MIDI pitches, ordered from lowest to highest, and with an interval of a semitone between each (enharmonic equivalents are assigned the same pitch number). Bin 60 corresponds to middle C. The magnitude of of each bin is proportional to the the number of times notes occurred at the bin's pitch in the piece, relative to all other pitches in the piece (the histogram is normalized).</description>
-      <is_sequential>true</is_sequential>
-      <parallel_dimensions>128</parallel_dimensions>
-   </feature>
-
-   <feature>
-      <name>Pitch Class Histogram</name>
-      <description>A feature vector consisting of bin magnitudes of the pitch class histogram described in the jSymbolic manual. Each bin corresponds to one of the 12 pitch classes, ordered in increasing pitch with an interval of a semitone between each (enharmonic equivalents are assigned the same pitch class number). The first bin corresponds to the most common pitch class in the piece under consideration (it does NOT correspond to a set pitch class). The magnitude of of each bin is proportional to the the number of times notes occurred at the bin's pitch class in the piece, relative to all other pitch classes in the piece (the histogram is normalized).</description>
-      <is_sequential>true</is_sequential>
-      <parallel_dimensions>12</parallel_dimensions>
-   </feature>
-
-   <feature>
-      <name>Folded Fifths Pitch Class Histogram</name>
-      <description>A feature vector consisting of bin magnitudes of the folded fifths pitch class histogram described in the jSymbolic manual. Each bin corresponds to one of the 12 pitch classes, and the bins are ordered such that adjacent bins are separated by an ascending perfect fifth. Bin 0 corresponds to C. Enharmonic equivalents are assigned the same pitch class number. The magnitude of of each bin is proportional to the the number of times notes occurred at the bin's pitch class in the piece, relative to all other pitch classes in the piece (the histogram is normalized).</description>
-      <is_sequential>true</is_sequential>
-      <parallel_dimensions>12</parallel_dimensions>
-   </feature>
-
-   <feature>
       <name>Number of Pitches</name>
       <description>Number of unique pitches that occur at least once in the piece. Enharmonic equivalents are grouped together for the purpose of this calculation.</description>
       <is_sequential>true</is_sequential>
