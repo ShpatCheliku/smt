@@ -1,0 +1,150 @@
+X:0
+T:Song0
+M:4/4
+K:Cdor
+B c 9 d =B F, c B _d ^c f _e _d _g d c | _a c 2> D 2 C G, =B 7 c _E c =A _B ^G D, F, (3 _A B | =B C =a ^F D B (3 c c =B /3 F e ^A z ^G _E =B =c :| d 2 E d (3 c =B A _B, /2 A, 5 =e 5 B B M:6/8 _E 2 _A E z :| _B :| | f g e C _e B F c G, 3 7 | _E =E =c B d c A |1 G G, |: D |: d e f' z 5 G, (3 ^F c A f 9 =B |1 c 5 A =A,
+
+X:1
+T:Song1
+M:4/4
+K:Cmix
+|: G E 3 G A c e | d c 3 G 2 A B | G E 2 (3 G /2 B /2 A G A G E | G 2 E C D _c c A |1 G A C 2 G A c d | e e f d g a g e | d e a f g f e a | c' g (3 c e g d' :| |2 d' 2 g a c' 2 f b | a c' a f g 2 B d | e b a c' a g e g | a b d' c' (3 a /2 a /2 =a e g /2 ^c /2 d :| a 3 (4 c' /2 c' /2 e' c' /2 =A, /2 a a c' e' | e' c' c' a a c g e | f a e g c _e ] =e | g 3 f =e =d e c :|
+
+X:2
+T:Song2
+M:2/4
+K:Cmix
+c |: d > f f f /2 B /2 | d > d (3 e e f | d 2 d > f | d /2 B /2 c /2 d /2 f _B :| |2 =B A B c d | c D G G | B =B c > d | B < =A B _E | E > G B c | f d /2 e /2 _d < _B |1 B =B G A |1 B 2 (3 B A B :| |2 z < c' M:4/4 ^f |
+
+X:3
+T:Song3
+M:2/4
+K:Cmaj
+^F ^F | G A G ^F | G 2 ^F 2 |1 A 2 G ^F /2 G /2 | C 2 A, C /2 B, /2 | B, 3 C /2 D /2 | E G D 2 | D 5 | D 4 | G B, E /2 ^G /2 B | A c F /2 D /2 =D /2 D /2 |1 A, 6 | ^C 2 :| |2
+
+X:4
+T:Song4
+M:3/4
+K:Cmin
+e 4 e 3 e d c e 3 z c | g G e _d d /2 e /2 f 2 | z 2 g 4 e /2 f /2 | e c 2 e f /2 e /2 d /2 e d _d | g /2 d e | e f e 3 | d 4 a f ^g ^g c f /2 e /4 d 3/2 e /2 d c e' 2 4 c 3 g | a c z a G 4 2< f g c' 3/2 =b < | c' 2 c a 3 z c' | g f /2 (3 e e d c /2 b f g 3/2 =a 3/4 _e /2> d f' 3/4 G e 3 c :| |: =b 4
+
+X:5
+T:Song5
+M:6/8
+K:Cmin
+|: c d c g B d | B 2 f e 2 d | c d c g f e | d B _d b g e | c d c g d B | _e 2 d b 2 a | g a g d > f a | c 3 c 3 :| |: e g b |: G 2 d d d d | =B G G /2 _e /2 ^c E E | D > a B B d A | d 3 c 2 _B | d g =B c g =a | =A =a ^g d _b _a | f g g b d e | E 3 z 3 :| |: f g a _d f _c | =B f f g C ^A | A b c c d f | _e a c z e B |: e c' d _B f g | a f =A d (3 A _B c | a b a =B A =A | F, (3 G f e g g c :| |: _d D, g 3 e' e (3 F c z =e ^F e 3 | e B =E g F G f e e | =B /2 A /2 ^F ^A c c d =d (4 E d' 3/2
+
+X:6
+T:Song6
+M:4/4
+K:Cdor
+| G B c d _A, 2 (3 c G E | c 6 D B | A D 3 D /2 B /2 D F D | B, D =A c B =A B G | G c c 2 (3 E e c d B | _B < F B _A |1 (3 B _B =B F < z D < B, B /2> A /4 B z :| B =f _A (3 _B 3/2 B 3 A F :| |: G > G B C c 3 d /2 A /2 | B F F B, _A 2 c B | =A G, /2 c /2 C _E ^F =F c (4 B /4 A /4 =c 3/2 f /4 B /4 c 3/2 A F | [ =E D 6 _d ] |: G 3/4 G /4 G z c B e F |: _A 3/4 B 3/2 c B 2 F, 4 |1 G, C > C (3 A M:3/4 F (3 F
+
+X:7
+T:Song7
+M:12/8
+K:Cdor
+|: e d | c B c 5 B c A d c 2 e /2 d /2 e | f e 3/4 f c e /2 e /2 a a b a =b c' 2 =E =F F | F =E C z A 3 B E ] d _B /4 =b /2 G /2 F /2 G /2 | g z a ^f _b G B, F :| |: b 2 |
+
+X:8
+T:Song8
+M:9/8
+K:Cmin
+e | c > d e f 2 g e a g | c /2 d /2 e g f d c b 2 a | c /2 f /2 e d c A f c a c | B > g d e d [ e e ] A > B |1 c d c e c d b > =A ^A | c > A c f ] c e f B | A > ^F A f F a G a ^c |1 A D c E 2 E A 2 =b :| |2 e > G F B E D E c /2 d /2 e | e f =A G A _B B ^F, B |1 ^F /2 ^G /2 _d E _E =c 2 c /2> f /2 G ^g :| |2 =B ^G A (3 _A E A 2 e (3 g /2 f /2 e /2 ^c | a 2 d =e F G ^G [ e D ^D /2> E /2 F | =B _B ^d F ^A c _B, =E A | D c _A B 2 E B, G =a |1 c G F B, c' a f' =f e' |1
+
+X:9
+T:Song9
+M:3/2
+K:Cmin
+C 3 F E 4 C 2 (3 C D C | B, 3 [ F, 2 B, D ] B =E E 2> G B | [ A, 2 E 2 ] c A G F A B D 4 :| (3 E D E C D E > G B B (3 =B, E F :| B 4 =E 2 G E B F | B, 2 =B, _D E G C B G E E 2 :| c E _e A B A =A F ^F =A | ^G 4 E 3 =B ^C d | G B =A c e (3 F 2 A =E e C |1 =E 4 c 2 A C D B :| |2 (3 _B A B [ E A ] E D 4 d 4 | E =E =A c e 2 c _B =A /2 ^G _d e
+
+X:10
+T:Song10
+M:3/4
+K:Cmaj
+G G > C _B, B, C 3/2 G, /2 B, > C 5 |: G, A, /2 C /2 G ^D B _B /2 F /2 B, > C | =F B /2 _B /2 G ^F A z F ^F | G > A F A C A, < c =A, B, B, | g 2 c 3/2 C | D 6 G =G z 2 A G 3 _A 3/2 G /4 z /4 [ A, E ] ^F _E D =e ] ^A D e _A ^c d 4 | d 3/2 ^F, /2 c 3/2 B /2 | G _B, 8 z |: z > =D c 3/2 e /2 f z =f ] e g /4 /4 3/2 d /2 | e /4 d 3/2 B a c' C B =A 6 | z < F, E D =F _G B z c |: [ F b /2 =B /2 G C G, B /2 (3 D /2 M:2/4 3/2 D 3/4 G, 3/2 B, :| E, 4 e' 4 C, 3/2 z /2 C 7 B, | c /2 B 3/2 z 2 |2 c e (3 c' 3/2 g 3/2 z a C ] _b e 2 | d /2 e d e z 6 |2 F _B, A, f G, _G 2 B, | | E C 3/2 C /2 [ z /4 z /2 ] | E 4 f 3/2 e /2 B /2< C 3/2 | D 6 | e c E 4 A, a | G, F D C B, |2 C 2> _B 4 e [ e G ] | c 4 z _e z =G D _B B | =E /2 _E B /2 7 =B 8 | (3 G, =E G ^f A z 2 c G | =B ^F | D 2 | A, 6 F _G | G =c |: G, 4 C D =d :| e f /2 g 3/2 F G A =B | C 9 G, 3 | C | F, E /2 _A, 2 G, | ^F, 4> _E D, | G, C, E ^G, C _B, | d B C 6 |1 D B _A 2> =A, /2 f 2 :| |2 F, B _c < =F =G /2> d 8 :| F | A 6 |
+
+X:11
+T:Song11
+M:12/8
+K:Cmaj
+f 3 g < e A | e g f e B A | G e G c G F | e 2 d d e f | e f f e d e | a f e f 2 f | e < d G A B d | c 3 c 3 :| C g f e c A | B 4 | f /2 c /2 A G | A 6 :|
+
+X:12
+T:Song12
+M:2/4
+K:Cmaj
+=D A, D E | E C C D | E /2 G /2 E /2 G /2 A A |1 B G A 2 :| |2 B 2 A z | B B A G /2 F /2 | A M:3/2 F, A, | G 3/2 G /2 D 2 | A /2 E /2 G E A :|
+
+X:13
+T:Song13
+M:2/4
+K:Cmaj
+c > d c g |1 _c A 3 | G e d c /2 A /2 | G c (3 d e f | a c' |1 g _a a B /2 _B | d 2 d ^c :| |2 c' C A _A | _A 2> e < g | c /4 =a /4 ^c /4 e 3/2 z > _b /2 G f 2 g z /2 c' z |1 =e 2 d e | c 8 | g 4 | g =F b z :| a a f z | f g =a g /2< z 3/4 | (3 G _d b A z | a a g' 3/2 b /2 A d' < z a b c |1 c' G, C _b /2 C /2 | f' z =c' _b | a z _B > A :|
+
+X:14
+T:Song14
+M:3/4
+K:Cmix
+e 2 | G A B 2 c > d | e 3 e c /2 B /2 c /2 d /2 |1 e c A ^G 2 A | A 6 :| |2 c G E G c > E | D 6 | |: G 2 c c e > F | A 3 e f 2 | g > =A d e 2 a | B 6 G 2 | _c | B /4 A /2 B /2 [ ^A 6 B 4 ] | E [ [ e 4 c 4 ] e 2 f d /2 e /2 |1 e > G E 2 ^C < A | D 4 _B G :| |2 f 3 g' =a /2 a /2 F /2 _a g | e 4 B /2 e /2 d /2 c /2 (3 A F E F C 3 |
+
+X:15
+T:Song15
+M:4/4
+K:Cmaj
+c E G A c G A G | d G B G E G A B | (3 c G A (3 C D E C G C G, | B, C _B, _B (3 _B, D G A B | G ^F G _A c D C G | B A ^c D 2 G G G | A B G E ^F A =e F |1 (3 D E F D C
+
+X:16
+T:Song16
+M:6/8
+K:Cmin
+C F D D B, E | F 3 F =E F | c A F D E D | B, _E B, B, C C |1 B, G G F z E | B, B D B, G, C | A, A E G 3 | G F A, F B, D :| |2 A, B, D _D 6 | C 4 C 2 | z B, 2 =B, 3 C |: G _B G ^G 3 |1 _A 3 =A _D F | (3 E =E ^C (3 E F E =B, 2 ^D 2 B, 2 :| |2 B 3 G, F, 3 | B, 8 |1 C 3/2 =B, /2 C G =A | z |
+
+X:17
+T:Song17
+a'
+K:Cdor
+c G c d c =B G B | e A f B e d f 2 | G A e _a g ^f g e | [ C D 6 C G ] [ E ^d c 6 ] [ =B, 8 D 6 ] z E 2> E | [ F /4 _G ] ] F A < G G E 2 D /2 _E /2 | F, 2 =e f e f _e B F [ A ^F ] |1 [ =F B, ] 4 | D E =B, =F e C D _B :| |2 B _D _A C (4 D 2 E ^G B, ^F :|
+
+X:18
+T:Song18
+M:6/8
+K:Cmaj
+e c c B d F | A c A d B G | e c c B d B | A c G A =B c | =e c G B c d | _B d A G 2 B | A G E A e' E | E D F G d c' :| d' 2 f f /2 a /2 a g | e B d c /2 c /2 c C | C D E G ^F A | B G ^F G A B | d B f G f b | C /2 d /2 d B, G E, A |1 G c _B d c B | F F _E c /2 C, /2 C F, :| |2 e 3/2 =f /2 e d c _B | A B c G =A, C | E E _B E E E | G C =E d 2 c | c _B =B, a A ^f | e =B G =B d =B | E F _A E G, C | (4 G ^G :| c e A _B _e =d | e' 2> e c (3 g a =b | F, e' g c =a =B | _a =c A ^d E ^D | e _e ^d ^f f ^f | B, C B _B =G ^d | A e ^c ^c c /2 A /2 =G | =A B F _B, c A, :| _B =b G a 2 B | ^F, E A _B 3 |1 c B =A (3 G /4 e (4 f /4 G /4 ^F /2 G /2 A c |
+
+X:19
+T:Song19
+M:4/4
+K:Cmix
+|: a 3/2 g c' =c 8 | a 2 D, z g e' b c' | b a /2 a /2 a z g 3/2 G, /2 | A 2 _A 4 a b | a a b a a f 2 a | b b d' =b _b d' b b d' /2 e' /2 | G d' c' /2 =b /2 c' /2 b /2 b c' a 2 | a _b ^g a' g z c' =b | ^G 8 | F /4 d' | c' 3/2 c' /2 d' z g | a M:2/4 c' a b /2 a /2 a | A 8 | c /2 ^G /2 A /2< a /2 b 3/2 a /2 b d' f' d' | g' 2 B, g' g' G, /2 _D /2 5/2 g' 2 g' f' ^f' :| A =B c d e f f d | B A E =d B _G c 2 | G F D _A, C _C f 2 | A 2 _E 2 ^F c B B | c B _A 3/2 _d /2 e _B c _d e 8 | A F d c d 2 _c G | d B ^c B _A _A g' 2 |1 c 6 z 2 =f /2 _e /2 B ] d 3/2 c /2 A =A _d e B ^A _a c =G =G :| |2 g 8 | e d e 2 f /2 _a =g b 2> f e | d 3 f =e c c z :| z 4 B, F, G, =A, B, 2 B, 2 D | G, z z 4 E F, /2> A, /2 C D z F F E, D B, E c C 2 | E z F, 3 F B, F G 3 F e _A 5 B, | _B 3/2 c 3/2 z e _e f G B 2 D 8 |1 B, g a M:6/8 f 4 C 2 |: c C B, B, A, _A, B, ^D e 3/2 G /2 g' E _B, B, G C :| A B A E A, | F 4 F =B F D |2 B, =A, B F G 4 D _D |1 E 8 | d 8 | z 8 |2 C 8 :| E b b | z C z ^G, |: [ C 5 B c z z (3 C D F d | e D 7 M:9/8 =f g' _D
+
+X:20
+T:Song20
+M:4/4
+K:Cmaj
+F 2 _A F c A A f | c A F d E A c D | E ^D B, D E C [ ^C 4 G, 4 ] | [ =B, c ] 2 G G _c G [ A F ] =f | e c =c A A F _B, A, | F, A, A, c D G, F A, |1 (3 E E E A F F E =G F :| |2 E G G F d :| [ E c ] =A B G E F E 2 c d ^c > d _E, _e /2> d /2 d A, E E E D |1 f 3 g =f 2 =e ^c :| |2 _E A, | ^C ^D | E ^f D, e 2 > =c _B ^g | A ^G ^G ^f < =f G _B, =f d ] B 2 f _d =e e f ^F _D ^G F 6 | E A, F /2 E /2 F C D F ^G ^G d | _d ^f ^g A ^G _A, B _E G F | B, e _e c F A F _d =A B b' =F A
+
+X:21
+T:Song21
+M:4/4
+K:Cdor
+|: _e c' g a a f e c' | b _a g b a f f b |1 =e c _e g e a c' _e | a ^F, f _a a ^g =e e :| |2 g a =f 2 =e /2 a /2 e _B G | B 3 c d _B, =B =B | c e g b a b b 2 | G 3 f =e d A =B | c _e (3 b b g a =C B c | F 2 c _A c 2 A _B | G c' z 6 B E | c E ^f e d < c B G | A d g' B, | [ A, 4 d 6 ] [ B [ F 2 ] 2 ] (3 B D B, | |: A 2 a /2 B /2 B ^G c _A =G A F :| z (3 d /2 d /2 =A, /2 f' C, G, =B G | =E C a =b C |2 E, D, C G M:6/8 =A | C g ^g E | A, 4 _E 4 | C g e b e' d' =b
+
+X:22
+T:Song22
+M:4/4
+K:Cdor
+|: D | C < B (3 B c d c B G A | B 2 B > A G D _B, F | F 2 C < E B e d B | b A /2 A /2 c G e =f f > B /2 C /2 |1 C 2 C E /2 B, /2 A 4 |1 B, c =B /2 c /2 d /2 B /2 c C =B, A | =E =f =B > G C ^D ^D E :| G |: _e 2 G g /2 d /2 B (3 c G B G 3/4 =A /4 B /2> B /2 5 ] c > a b 2 d' F, a =b | c _e /2 d /2 B _b =f B z _A |1 [ E, e f ^f G /2 g /4 _B 3/2 B [ d B
+
+X:23
+T:Song23
+M:4/4
+K:Cmaj
+A F 3 G C A C | D G G E D C A F | G C E 2 E c c =B | c d e e c A (3 B c B | A 2 G F G F E G | D 2 C G A B (3 c d c | =B G d A g 3 F | e d e e a g f c | B g g a a 2 a B | c c e c ^G c f c | g 4 c =e ^f ^f | ^G G f E e G A d f =e =F, F f _e ^d _d | d b g B _d 3/4 z /2 a _B | _B =c f B (3 G _B E ^d =A | ^F e c _B _E =E, G =c | =e E d =B c 3 ^c | d _b d ^c G ] _E G | A 2 3/2 ^G /2 _B G d e _E _d | _B z G d 3 g _e | A E =A =B d d C F |1 _E ^F, f _e F < e e 2 :| |: B, c' E f ^D C _a F, | c' 2 _A ^f 4 ^f ^f A g ] /4 E, g F | c B, g a _a ^d f a | E =e a =f e ^g 2 =B B |1 D, 2> =A ^f f e d _b :| |2 c' z G _d A =B B _d | B _e _B =A B ^G _E F, | z ^c d c =d _D D =c | b z D d F ^c _D ^G | B c =F _A B d e | (3 f b f F, e f _b f ^c | d' |: B, c' F g =e f | f g | (3 D E a' b' _C G F B _g d' =G d 9 =d z a ^f | g =a K:Cmaj ^A, F d 3/4 =B _d' |1 3/4 =B, z G A ^g f e d 2 9 M:12/8 z (3 _g =e' _g =F, f' c' f' a b c z (2 d' :| |2 B A D _g 7/2 2< G K:Cmix | _C =g _C F z (2 f' A, ^c' f' f' |
+
+X:24
+T:Song24
+M:4/4
+K:Cdor
+G, C C B, C 2 D F | G E D C D F F 2 | G A B G A G G F | G =A B G c B ^c d | c 2 A C C B, C D | E ^D E /2 D /2 C D F G |1 B 2 F B, D G F =F, | B, G, F D C G, C 2 :| |2 B G D /2 F /2 G D G F G | B, ^C D /2 E /2 F < G c c e | c f e _d ^c 4 [ d 4 c 4 ] |1 B ^C 3 D C _B, A, | [ C G, ] A, c f g b /2 f /2 _e g | (3 =B g a g c B =E G =B :| |2 C _E 3 [ C, 3 E 2 ] =A _B, | [ E b e 4 =B _E (3 G F _E | F D =E D D 4 | d B, /2 B /2 =A 7 c =E =d F | d G 3 _G 2 _c _A D, [ F, d ] :| |: d A, B [ c ^G D d 3 z /2 D /2 5 |
+
