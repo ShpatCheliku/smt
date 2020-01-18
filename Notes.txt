@@ -1,4 +1,4 @@
-feature scaling?
-remove identical values
-feature selection - more tests
-feature importance
+1.Use features to discover differences and commonalities between original songs from The Session and the computer-generated songs  with Folk-RNN and use those features to do classification.
+
+Feature selection - more tests
+Feature importance
