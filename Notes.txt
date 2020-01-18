@@ -1,0 +1,6 @@
+Combine both datasets
+feature scaling?
+remove identical values
+remove missing values
+feature selection - more tests
+feature importance
